@@ -1,6 +1,6 @@
 # 정성목
 
-> ## blog : [tjdahr25.tistory.com](tjdahr25.tistory.com)
+### [성목아코딩하자](http://tjdahr25.tistory.com)
 ----------------------------
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdahr25)](https://solved.ac/tjdahr25)
