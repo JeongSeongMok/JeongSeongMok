@@ -3,10 +3,7 @@
 ### [성목아코딩하자](http://tjdahr25.tistory.com)
 ----------------------------
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdahr25)](https://solved.ac/tjdahr25)
-
------------------------
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongSeongMOk&show_icons=true&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdahr25)](https://solved.ac/tjdahr25) ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongSeongMOk&show_icons=true&theme=dark)
 
 -------------------------------
 
