@@ -9,8 +9,10 @@
 
 ## 💼 Careers
 
-- **LINE+** · Media Service Platform · Server Engineer `2025.05 ~ 현재`
-- **NEXON KOREA** · 인텔리전스랩스 · Server Engineer `2022.12 ~ 2025.05`
+| Company | Role | Period |
+|:--|:--|:--|
+| **LINE Plus** | Software Engineer | `2025.05 ~ Present` |
+| **NEXON Korea** | Software Engineer | `2022.12 ~ 2025.05` |
 
 ---
 
