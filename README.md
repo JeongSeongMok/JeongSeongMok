@@ -7,7 +7,7 @@
 
 ---
 
-## 💼 Careers
+## Careers
 
 | Company | Role | Period |
 |:--|:--|:--|
