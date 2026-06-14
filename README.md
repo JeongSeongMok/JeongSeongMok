@@ -1,4 +1,4 @@
-<h1 align="left">정성목 | Software Engineer</h1>
+<h1 align="left">정성목</h1>
 
 <p align="left">
   <a href="https://seongmok.com"><img src="https://img.shields.io/badge/Blog-seongmok.com-2E2E2E?style=flat-square&logo=hashnode&logoColor=white"/></a>
